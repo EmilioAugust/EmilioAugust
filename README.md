@@ -46,7 +46,6 @@ Here are some of the main tools and technologies I work with:
   </a>
 </p>
 
----------------------------------------
 
 ## 📊 GitHub Stats
 
