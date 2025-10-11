@@ -22,7 +22,7 @@ I enjoy designing robust backend architectures and turning complex problems into
 
 Here are some of the main tools and technologies I work with:
 
-<p align="left" style="text-decoration: none; gap: 5px">
+<p align="left" style="text-decoration:none; display: flex; gap: 10px; align-items: center;">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
