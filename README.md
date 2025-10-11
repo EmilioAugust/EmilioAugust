@@ -3,8 +3,6 @@
 I'm a **Python Backend Developer** passionate about building scalable systems, clean APIs, and automating the boring stuff.  
 I enjoy designing robust backend architectures and turning complex problems into elegant solutions.
 
-=============================================================================================================================
-
 ## 🚀 About Me
 
 - 🐍 Python enthusiast — writing clean, maintainable code is my thing  
