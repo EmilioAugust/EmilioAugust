@@ -52,5 +52,5 @@ Here are some of the main tools and technologies I work with:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EmilioAugustE&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
