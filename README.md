@@ -9,7 +9,6 @@ I enjoy designing robust backend architectures and turning complex problems into
 - ⚙️ Backend-focused — love working with APIs, databases, and automation  
 - 💡 Believer in open-source collaboration and knowledge sharing
 
----------------------------------------
 
 ## 📁 What You'll Find Here
 
@@ -18,7 +17,6 @@ I enjoy designing robust backend architectures and turning complex problems into
 - 🧪 Experiments and personal learning projects
 - 💬 Code snippets and utilities I find useful
 
----------------------------------------
 
 ## 🧰 Tech Stack & Skills
 
