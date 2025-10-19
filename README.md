@@ -12,7 +12,7 @@ I enjoy designing robust backend architectures and turning complex problems into
 
 ## 📁 What You'll Find Here
 
-- 🧩 Backend projects and API designs (FastAPI, Django)
+- 🧩 Backend projects and API designs (FastAPI)
 - ⚙️ Automation scripts and developer tools
 - 🧪 Experiments and personal learning projects
 - 💬 Code snippets and utilities I find useful
