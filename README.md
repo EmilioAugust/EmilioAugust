@@ -5,14 +5,7 @@
 Passionate about building scalable systems, clean APIs, and automating the boring stuff.
 I enjoy designing robust architectures and turning complex problems into elegant solutions.
 
-## 🚀 About Me
-
-- 🐍 Python enthusiast — writing clean, maintainable code is my thing  
-- ⚙️ Backend-focused — love working with APIs, databases, and automation  
-- 💡 Believer in open-source collaboration and knowledge sharing
-
-
-## 📁 What You'll Find Here
+## 📁 What You'll Find Here?
 
 - 🧩 Backend projects and API designs (FastAPI)
 - ⚙️ Automation scripts and developer tools
