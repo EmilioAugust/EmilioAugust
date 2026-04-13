@@ -1,6 +1,7 @@
 # 👋 Привет, я Эмиль
-[![lang ru](https://img.shields.io/badge/lang-ru-blue)](https://github.com/EmilioAugust)
-[![lang en](https://img.shields.io/badge/lang-en-red)](https://github.com/EmilioAugust/Collector/blob/main/README.md)
+[![lang ru](https://img.shields.io/badge/lang-ru-blue)](https://github.com/EmilioAugust/EmilioAugust/blob/main/README.ru.md)
+[![lang en](https://img.shields.io/badge/lang-en-red)](https://github.com/EmilioAugust)
+
 
 Я **Python-бэкенд-разработчик**, увлеченный созданием масштабируемых систем, чистых API и автоматизацией рутины.  
 Мне нравится проектировать надежную бэкенд-архитектуру и превращать сложные задачи в элегантные решения.
