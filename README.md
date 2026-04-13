@@ -49,6 +49,8 @@ Here are some of the main tools and technologies I work with:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmilioAugust&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmilioAugust&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EmilioAugust&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmilioAugust&theme=default)
+
+
