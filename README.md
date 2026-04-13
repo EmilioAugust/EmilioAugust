@@ -1,4 +1,6 @@
 # 👋 Hi, I'm Emil
+[![lang ru](https://img.shields.io/badge/lang-ru-blue)](https://github.com/EmilioAugust/EmilioAugust/blob/main/README.ru.md)
+[![lang en](https://img.shields.io/badge/lang-en-red)](https://github.com/EmilioAugust)
 
 I'm a **Python Backend Developer** passionate about building scalable systems, clean APIs, and automating the boring stuff.  
 I enjoy designing robust backend architectures and turning complex problems into elegant solutions.
