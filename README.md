@@ -3,7 +3,7 @@
 [![lang en](https://img.shields.io/badge/lang-en-red)](https://github.com/EmilioAugust)
 
 Passionate about building scalable systems, clean APIs, and automating the boring stuff.
-I enjoy designing robust backend architectures and turning complex problems into elegant solutions.
+I enjoy designing robust architectures and turning complex problems into elegant solutions.
 
 ## 🚀 About Me
 
