@@ -7,6 +7,7 @@ I enjoy designing robust architectures and turning complex problems into elegant
 
 ## 📁 What You'll Find Here?
 
+- 📱 Android development project
 - 🧩 Backend projects and API designs (FastAPI)
 - ⚙️ Automation scripts and developer tools
 - 🧪 Experiments and personal learning projects
